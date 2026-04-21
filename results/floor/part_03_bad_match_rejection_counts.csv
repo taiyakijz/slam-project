@@ -1,0 +1,9 @@
+frontend,stage,count
+orb,raw candidates,4195
+orb,after Lowe ratio,1497
+orb,after RANSAC,1358
+orb,after LMedS,1378
+shi_tomasi_lk,raw candidates,902
+shi_tomasi_lk,after LK tracking,711
+shi_tomasi_lk,after RANSAC,644
+shi_tomasi_lk,after LMedS,646

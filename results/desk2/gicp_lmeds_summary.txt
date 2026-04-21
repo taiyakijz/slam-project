@@ -1,0 +1,14 @@
+Dataset: rgbd_dataset_freiburg1_desk2
+Frontend: orb
+Registration: gicp
+Reject: lmeds
+Frame step: 5
+Max frames: None
+Frames: 128
+Loop: True
+Candidate: 45
+Query: 435
+GT mode: interpolated
+Matched GT: 128
+Raw RMSE: 0.259092
+Corrected RMSE: 0.063425

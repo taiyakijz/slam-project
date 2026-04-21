@@ -1,0 +1,4 @@
+filter,ate_rmse_m
+unfiltered,1.022979
+moving average,1.016675
+kalman,1.027657

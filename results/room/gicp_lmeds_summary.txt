@@ -1,0 +1,14 @@
+Dataset: rgbd_dataset_freiburg1_room
+Frontend: orb
+Registration: gicp
+Reject: lmeds
+Frame step: 5
+Max frames: None
+Frames: 273
+Loop: True
+Candidate: 5
+Query: 1025
+GT mode: interpolated
+Matched GT: 273
+Raw RMSE: 0.181844
+Corrected RMSE: 0.102094

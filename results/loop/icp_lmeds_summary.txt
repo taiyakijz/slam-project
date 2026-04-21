@@ -1,0 +1,14 @@
+Dataset: tum_loop
+Frontend: orb
+Registration: icp
+Reject: lmeds
+Frame step: 5
+Max frames: None
+Frames: 993
+Loop: True
+Candidate: 0
+Query: 4985
+GT mode: nearest-only
+Matched GT: 234
+Raw RMSE: 1.104875
+Corrected RMSE: 1.022979

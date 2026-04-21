@@ -1,0 +1,14 @@
+Dataset: tum_rgbd
+Frontend: orb
+Registration: icp
+Reject: ransac
+Frame step: 5
+Max frames: None
+Frames: 733
+Loop: True
+Candidate: 40
+Query: 2495
+GT mode: interpolated
+Matched GT: 733
+Raw RMSE: 0.088041
+Corrected RMSE: 0.045536

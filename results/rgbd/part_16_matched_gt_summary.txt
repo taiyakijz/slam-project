@@ -1,0 +1,7 @@
+Dataset: tum_rgbd
+Prefix: icp_ransac
+Estimated poses: 733
+RGB times: 733
+Matched GT: 733
+GT mode: interpolated
+ATE RMSE: 0.045536

@@ -1,0 +1,7 @@
+Dataset: rgbd_dataset_freiburg1_room
+Prefix: gicp_lmeds
+Estimated poses: 273
+RGB times: 273
+Matched GT: 273
+GT mode: interpolated
+ATE RMSE: 0.102094

@@ -1,0 +1,7 @@
+Dataset: rgbd_dataset_freiburg1_xyz
+Prefix: icp_ransac
+Estimated poses: 160
+RGB times: 160
+Matched GT: 160
+GT mode: interpolated
+ATE RMSE: 0.030420

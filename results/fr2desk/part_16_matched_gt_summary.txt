@@ -1,0 +1,7 @@
+Dataset: rgbd_dataset_freiburg2_desk
+Prefix: gicp_ransac
+Estimated poses: 593
+RGB times: 593
+Matched GT: 593
+GT mode: interpolated
+ATE RMSE: 0.224272

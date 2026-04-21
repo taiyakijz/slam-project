@@ -1,0 +1,9 @@
+dataset,output_dir,best_method,best_prefix,best_rmse_m,dense_points,dense_bytes,dense_sor_points,dense_sor_bytes
+xyz,final\outputs_xyz_newcode,ICP/RANSAC,icp_ransac,0.030420,239859,6476402,229934,6208427
+room,final\outputs_room_newcode,GICP/LMedS,gicp_lmeds,0.102094,1470132,39693774,1429228,38589366
+desk2,final\outputs_desk2_newcode,GICP/LMedS,gicp_lmeds,0.063425,612558,16539275,589603,15919490
+floor,final\outputs_floor_newcode,ICP/RANSAC,icp_ransac,0.281494,367008,9909425,349968,9449345
+360,final\outputs_360_newcode,ICP/LMedS,icp_lmeds,0.100779,1688964,45602238,1635566,44160492
+rgbd,final\outputs_rgbd_newcode,ICP/RANSAC,icp_ransac,0.045536,363499,9814682,351298,9485255
+loop,final\outputs_loop_newcode,ICP/LMedS,icp_lmeds,1.022979,10041875,271130836,9377686,253197732
+fr2desk,final\outputs_fr2desk_newcode,GICP/RANSAC,gicp_ransac,0.224272,1041955,28132995,985551,26610086

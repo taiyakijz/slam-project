@@ -1,0 +1,7 @@
+Dataset: tum_loop
+Prefix: icp_lmeds
+Estimated poses: 993
+RGB times: 993
+Matched GT: 234
+GT mode: nearest-only
+ATE RMSE: 1.022979

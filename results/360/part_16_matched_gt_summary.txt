@@ -1,0 +1,7 @@
+Dataset: rgbd_dataset_freiburg1_360
+Prefix: icp_lmeds
+Estimated poses: 152
+RGB times: 152
+Matched GT: 151
+GT mode: interpolated
+ATE RMSE: 0.100779

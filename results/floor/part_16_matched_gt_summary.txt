@@ -1,0 +1,7 @@
+Dataset: rgbd_dataset_freiburg1_floor
+Prefix: icp_ransac
+Estimated poses: 248
+RGB times: 248
+Matched GT: 248
+GT mode: interpolated
+ATE RMSE: 0.281494

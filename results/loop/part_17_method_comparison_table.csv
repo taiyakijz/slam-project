@@ -1,0 +1,5 @@
+method,prefix,loop_detected,corrected_ate_rmse_m
+ICP/RANSAC,icp_ransac,yes,1.102761
+ICP/LMedS,icp_lmeds,yes,1.022979
+GICP/RANSAC,gicp_ransac,yes,1.119049
+GICP/LMedS,gicp_lmeds,yes,1.038439

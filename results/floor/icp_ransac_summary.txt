@@ -1,0 +1,14 @@
+Dataset: rgbd_dataset_freiburg1_floor
+Frontend: orb
+Registration: icp
+Reject: ransac
+Frame step: 5
+Max frames: None
+Frames: 248
+Loop: True
+Candidate: 10
+Query: 1060
+GT mode: interpolated
+Matched GT: 248
+Raw RMSE: 0.285150
+Corrected RMSE: 0.281494
